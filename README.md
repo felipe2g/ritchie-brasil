@@ -12,7 +12,7 @@ This repository contains brazil themed formulas which can be executed by the [ri
 
 1. [Install Ritchie CLI](https://docs.ritchiecli.io/getting-started/installation)
 2. [Initialize Ritchie CLI](https://docs.ritchiecli.io/getting-started/initialization)
-3. Clone this repo [ritchie-brasil repository](https://github.com/felipe2g/ritchie-brasil) in your ritchie-formulas-local.
+3. Clone this repo [ritchie-brasil repository](https://github.com/felipe2g/ritchie-brasil) in your ritchie-formulas-local folder.
 
 
 ## Contributing
