@@ -1,9 +1,13 @@
-<img class="special-img-class" src="/docs/img/ritchie-banner.png" />
+# Ritchie's Brazil formulas repository
 
-# Ritchie's demonstration formulas repository
+This repository contains brazil themed formulas which can be executed by the [ritchie-cli](https://github.com/ZupIT/ritchie-cli).
 
-This repository contains the demonstration formulas which can be executed by the [ritchie-cli](https://github.com/ZupIT/ritchie-cli).
 
+## Roadmap
+- [x] CNPJ
+- [ ] CEP
+- [ ] Bank Information
+- [ ] Geographic Data
 ## How to execute access those commands with Ritchie CLI
 
 1. [Install Ritchie CLI](https://docs.ritchiecli.io/getting-started/installation)
