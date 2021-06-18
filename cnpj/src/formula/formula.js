@@ -56,7 +56,7 @@ async function Run(cnpj) {
     console.log("")
   }
 
-  if(!atividade_principal === undefined) {
+  if(!(typeof atividade_principal === "undefined")) {
     console.log(clc.yellow('##################################################'))
     console.log(clc.yellow('################### Atividades ###################'))
     console.log(clc.yellow('##################################################'))
@@ -72,7 +72,7 @@ async function Run(cnpj) {
     }
   }
 
-  if(!atividades_secundarias === undefined) {
+  if(!(typeof atividades_secundarias === "undefined")) {
     if(atividades_secundarias.length > 0) {
       console.log(clc.yellow('- Secundária'))
 
