@@ -12,11 +12,8 @@ This repository contains brazil themed formulas which can be executed by the [ri
 
 1. [Install Ritchie CLI](https://docs.ritchiecli.io/getting-started/installation)
 2. [Initialize Ritchie CLI](https://docs.ritchiecli.io/getting-started/initialization)
-3. Add the [ritchie-brasil repository](https://github.com/felipe2g/ritchie-brasil) using the **RIT ADD REPO** command or through the command line below:
+3. Clone this repo [ritchie-brasil repository](https://github.com/felipe2g/ritchie-brasil) in your ritchie-formulas-local.
 
-```bach
-echo '{"provider":"Github", "name":"brasil", "url":"https://github.com/felipe2g/ritchie-brasil", "priority":1}' | rit add repo --stdin
-```
 
 ## Contributing
 
