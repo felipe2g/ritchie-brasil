@@ -1,0 +1,14 @@
+{
+  "dockerImageBuilder": "ritclizup/rit-node-builder",
+  "inputs": [
+    {
+      "label": "Type your desired CNPJ number: ",
+      "name": "rit_input_cnpj",
+      "required": true,
+      "tutorial": "The cnpj number you want explore",
+      "type": "text"
+    }
+  ],
+  "template": "node",
+  "templateRelease:": "2.15.2"
+}
